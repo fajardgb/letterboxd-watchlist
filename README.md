@@ -21,7 +21,7 @@ If you want to find a movie that isn't too long and is highly rated, you can use
 Example: 
 
 ```python
-plot_low_dur_high_rate_movies(common_movies_df, min_rating=4.2, max_duration=100, save_dir=None)
+def plot_low_dur_high_rate_movies(common_movies_df, min_rating=4.2, max_duration=100, font_size=9, save_dir=None):
 ```
 
 ![plot_low_dur_high_rate_movies](imgs/watchlist_plot.png)
