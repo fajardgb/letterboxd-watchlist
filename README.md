@@ -8,7 +8,9 @@ To get movies that are common in both of your watchlists, change the lines to th
 # define users
 users = ['gfajardo555', 'romekk', 'shaydog'] ## CHANGE ME
 ``` 
-and then run the script. 
+and then run the ```common_watchlist.ipynb``` notebook. 
+
+---
 
 Example output:
 
