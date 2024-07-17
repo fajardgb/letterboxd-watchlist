@@ -2,7 +2,7 @@
 
 If you and your friends are on Letterboxd, and actviely use the watchlist feature, this is a great way to figure out what movie y'all want to watch. 
 
-To get movies that are common in both of your watchlists, change the lines to the user(s) you want to get a common watchlist of:
+To get movies that are common in both of your watchlists, open the ```common_watchlist.ipynb``` notebook, and change the lines below to the user(s) you want to get a common watchlist of:
 
 ```python
 # define users
