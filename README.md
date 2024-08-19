@@ -1,6 +1,6 @@
 # letterboxd-watchlist
 
-If you and your friends are on Letterboxd, and actviely use the watchlist feature, this is a great way to figure out what movie you all can wathc together! 
+If you and your friends are on Letterboxd, and actviely use the watchlist feature, this is a great way to figure out what movie you can watch together! 
 
 To get movies that are common in all of your watchlists, open the ```common_watchlist.ipynb``` notebook, and change the lines below (found at the top of the notebook) to the user(s) you want to get a common watchlist for:
 
