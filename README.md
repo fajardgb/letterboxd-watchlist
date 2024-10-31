@@ -27,3 +27,12 @@ def plot_low_dur_high_rate_movies(common_movies_df, min_rating=4.2, max_duration
 ```
 
 ![plot_low_dur_high_rate_movies](imgs/watchlist_plot.png)
+
+
+
+---
+
+To do:
+- option to have least number of users instead of all or nothing - for example, if you have 5 users, have the option to include movies where 3/5 have them in their watchlist.
+- filter by genre
+- implement web hosting option (Django) so that non-coders can use this tool
